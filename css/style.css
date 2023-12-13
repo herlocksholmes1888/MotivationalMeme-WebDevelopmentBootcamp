@@ -1,0 +1,23 @@
+body {
+    background-color: #000000;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+.meme {
+    color: #ffffff;
+    font-family: 'Silkscreen', sans-serif;
+    margin: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#cat {
+    border: 10px solid #ffffff;
+    width: 310px;
+    height: 300px;
+}
